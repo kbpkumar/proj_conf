@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authenticatonVectorConfig>
+    <authenticatonVector>
+        <imsi>310260563291343</imsi>
+        <rand>BjXykGispNHnDDI1UAZTiA==</rand>
+        <xres>P+mVRE7+n8Y=</xres>
+        <ck>wYCthyqEkUwye04/JHhMiw==</ck>
+        <ik>dkWtla+JsoieYR/x70L0kw=</ik>
+        <autn>TFrAQQYlAADgDR607QzV8Q=</autn>
+    </authenticatonVector>
+    <authenticatonVector>
+        <imsi>31026056329132</imsi>
+        <rand>BjXykGispNHnDDI1UAZTiA=</rand>
+        <xres>P+mVRE7+n8Y=</xres>
+        <ck>wYCthyqEkUwye04/JHhMiw=</ck>
+        <ik>dkWtla+JsoieYR/x70L0kw==</ik>
+        <autn>TFrAQQYlAADgDR607QzV8Q=</autn>
+    </authenticatonVector>
+	<authenticatonVector>
+        <imsi>31026056329131</imsi>
+        <rand>BjXykGispNHnDDI1UAZTiA=</rand>
+        <xres>P+mVRE7+n8Y=</xres>
+        <ck>wYCthyqEkUwye04/JHhMiw=</ck>
+        <ik>dkWtla+JsoieYR/x70L0kw==</ik>
+        <autn>TFrAQQYlAADgDR607QzV8Q=</autn>
+    </authenticatonVector>
+
+</authenticatonVectorConfig>
